@@ -41,5 +41,3 @@
              <h2>Top 10</h2><img src="Top10.png" alt="Steven Universe" width="400" height="200"><h3>Steven Universe</h3><p class="text-content-one">Steven Universe is set in the fictional town of Beach City, Delmarva, where the Crystal Gems live in an ancient beachside temple and protect humanity from monsters and other threats.</p>
         </div>
     </div>
-</body>
-</html>
