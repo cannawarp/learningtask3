@@ -4,8 +4,7 @@
     <link rel="stylesheet" href="stylesheet.css">
     <title>
         LT3
-    </title>
-  
+    </title>  
 </head>
 <body>
     <h1>My Top 10 Favorites</h1>
