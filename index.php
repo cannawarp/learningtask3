@@ -2,9 +2,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="stylesheet.css">
-    <title>
-        LT3
-    </title>
+    <title>LT3</title>
 </head>
 <body>
     <h1>My Top 10 Favorites</h1>
