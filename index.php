@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="stylesheet.css">
     <title>
         LT3
-    </title>  
+    </title>
 </head>
 <body>
     <h1>My Top 10 Favorites</h1>
@@ -12,7 +12,7 @@
         <div id="box-one">
              <h2>Top 1</h2><img src="Top1.jpg" alt="Teen Titans" width="400" height="200"><h3>Teen Titans Go!</h3><p class="text-content-one">Teen Titans Go! is an animated series that follows the adventures of the young Titans: Beast Boy, Robin, Cyborg, Raven and Starfire. They reside in Jump City when they are not saving the world while living together as teenagers without adults who disrupt the young Titans.</p>
         </div>
-        
+
          <div id="box-two">
              <h2>Top 2</h2><img src="Top2.png" alt="Adventure Time" width="400" height="200"><h3>Adventure Time</h3><p class="text-content-one">Adventure Time is an American fantasy animated television series created by Pendleton Ward for Cartoon Network. The series follows the adventures of a boy named Finn and his best friend and adoptive brother Jake a dog with the magical power to change size and shape at will.</p>
         </div>
@@ -41,3 +41,5 @@
              <h2>Top 10</h2><img src="Top10.png" alt="Steven Universe" width="400" height="200"><h3>Steven Universe</h3><p class="text-content-one">Steven Universe is set in the fictional town of Beach City, Delmarva, where the Crystal Gems live in an ancient beachside temple and protect humanity from monsters and other threats.</p>
         </div>
     </div>
+</body>
+</html>
